@@ -1,5 +1,5 @@
 import axios from 'axios';
 
 export default axios.create({
-    baseURL: `http://www.betvip.fun/sport`    
+    baseURL: `https://www.2winmoney.com/sport`    
 }) 
